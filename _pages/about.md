@@ -9,6 +9,8 @@ redirect_from:
 
 My research explores how wildfire reshapes the ecology and chemistry of California’s coastal watersheds—from mercury cycling in streams to genetic and behavioral adaptation in steelhead trout.  
 I use molecular biology, spatial analysis, and field experiments to understand how changing fire regimes affect freshwater ecosystems and to inform conservation, management, and climate policy across the state.
+
+
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
