@@ -23,14 +23,13 @@ repository               : "mmabbott/mmabbott.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/P9120678.jpeg"
-  name             : "Morgan M. abbott"
-  pronouns         : "he/him" # example: "she/her"  
-  bio              : "Integrating molecular biology, ecology, and geospatial analysis to understand how wildfire affects coastal watersheds and communities"
-  location         : "California"
-  employer         : "University of California"
-  uri              : # URL
-  email            : "morganabbott01@gmail.com" 
+  avatar: "images/P9120678.jpeg"   # your file in /images
+  name: "Morgan M. Abbott"
+  pronouns: "he/him"               # or as you prefer
+  bio: "Integrating molecular biology, ecology, and geospatial analysis to understand how wildfire affects coastal watersheds and communities."
+  location: "California"
+  employer: "University of California"
+  email: "morganabbott01@gmail.com"
 
   # Academic websites
   academia         : # URL
