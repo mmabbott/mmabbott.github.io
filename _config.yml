@@ -23,7 +23,7 @@ repository               : "mmabbott/mmabbott.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "/images/profile.jpeg"   # your file in /images
+  avatar: "profile.jpeg"   # your file in /images
   name: "Morgan M. Abbott"
   pronouns: "he/him"               # or as you prefer
   bio: "Integrating molecular biology, ecology, and geospatial analysis to understand how wildfire affects coastal watersheds and communities."
