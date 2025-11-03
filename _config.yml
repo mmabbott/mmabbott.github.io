@@ -23,7 +23,7 @@ repository               : "mmabbott/mmabbott.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/Users/morab_000/Desktop/MA C.V/P9120678.jpeg"
+  avatar           : "images/P9120678.jpeg"
   name             : "Morgan M. abbott"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "Integrating molecular biology, ecology, and geospatial analysis to understand how wildfire affects coastal watersheds and communities"
