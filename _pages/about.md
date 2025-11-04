@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Studying wildfire, water, and biodiversity to inform conservation and policy across California's watersheds"
+title: "Studying wildfire, water, and anadromous salmonids to inform conservation and policy across California's watersheds"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 My research explores how wildfire reshapes the ecology and chemistry of California’s coastal watersheds—from mercury cycling in streams to genetic and behavioral adaptation in steelhead trout.  
-I use molecular biology, spatial analysis, and field experiments to understand how changing fire regimes affect freshwater ecosystems and to inform conservation, management, and climate policy across the state.
+
+I use molecular biology, geospatial analysis, and modeling to understand how changing fire regimes affect freshwater ecosystems and to inform conservation, management, and climate policy across the state.
 
 
 ======
